@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @GrozdanovEG  
-- 👀 I’m interested in Mathematics, software architecture and development, system administration, open source software and movements.  
-- 🌱 I’m currently studying "[PHP BackEnd Development](https://academy.jagaad.com/course/php-backend-development)" at [Jagaad Academy](https://academy.jagaad.com/course/php-backend-development)*  
-- 💞️ I’m looking to collaborate on probably everything possible.  
-- 📫 How to reach me:  [www.emilggrozdanov.online](http://www.emilggrozdanov.online)  
+# Emil Grozdanov - PHP Developer Student 
 
---
-* By the way, if you are interested to join the academy's next iteration visit [academy.jagaad.com](https://academy.jagaad.com/), use the promo code **926649** during the enrollment process, and you will receive **20**% discount. 
+ I'm studying at [Jagaad Academy](https://academy.jagaad.com/) and have been focusing on Backend development with *PHP*, *Symfony*, *MySQL*, and *Object-Oriented Programming*. Check out some of my projects here on GitHub; they cover different topics I'm studying.
 
-<!---
-GrozdanovEG/GrozdanovEG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Currently, I'm looking for an opportunity to work as a junior or intern developer**.  
+*Other roles /positions are also considered as acceptable option.* 
+
+I can be reached via: [LinkedIn](https://www.linkedin.com/in/емил-грозданов-p988740219/) |  [Email](e_grozdanov@abv.bg) | [Website](http://www.emilggrozdanov.online) 
+
+
+Learning more about code and contributing to great solutions is something I enjoy and want to work with.
