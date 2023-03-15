@@ -1,4 +1,4 @@
-# Emil Grozdanov - PHP Developer Student 
+### Emil Grozdanov - PHP Developer Student 
 
  I'm studying at [Jagaad Academy](https://academy.jagaad.com/) and have been focusing on Backend development with *PHP*, *Symfony*, *MySQL*, and *Object-Oriented Programming*. Check out some of my projects here on GitHub; they cover different topics I'm studying.
 
