@@ -9,7 +9,7 @@
 
 *I am also interested to be involved in open source projects, to practice my skills and teamwork*.
 
-I can be reached via: [LinkedIn](https://www.linkedin.com/in/емил-грозданов-p988740219/) | [Email](e_grozdanov@abv.bg) | [Website](http://www.emilggrozdanov.online) 
+I can be reached via: [LinkedIn](https://www.linkedin.com/in/емил-грозданов-p988740219/) | [Email](mailto:e_grozdanov@abv.bg) | [Website](http://www.emilggrozdanov.online) 
 
 Feel free to get in touch with me in the most convenient for you way
 
